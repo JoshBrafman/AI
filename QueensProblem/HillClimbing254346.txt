@@ -1,0 +1,1 @@
+Averages when n was 60: iterations was 578.0, moves was 1212.0, time was 3.346205234527588

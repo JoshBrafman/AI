@@ -1,0 +1,12 @@
+Averages when n was 10: iterations was 1068.0, moves was 194.0, time was 0.0013365745544433594
+Averages when n was 11: iterations was 559.0, moves was 93.0, time was 0.0008901834487915039
+Averages when n was 12: iterations was 3316.0, moves was 510.0, time was 0.0028520822525024414
+Averages when n was 13: iterations was 1464.0, moves was 209.0, time was 0.0011751174926757813
+Averages when n was 14: iterations was 28381.0, moves was 3784.0, time was 0.02058072090148926
+Averages when n was 15: iterations was 21625.0, moves was 2703.0, time was 0.012705421447753907
+Averages when n was 16: iterations was 170749.0, moves was 20088.0, time was 0.10170233249664307
+Averages when n was 17: iterations was 96580.0, moves was 10731.0, time was 0.06394538879394532
+Averages when n was 18: iterations was 784511.0, moves was 82580.0, time was 0.5392231702804565
+Averages when n was 19: iterations was 50711.0, moves was 5071.0, time was 0.04057989120483398
+Averages when n was 20: iterations was 4192126.0, moves was 399250.0, time was 3.1647868156433105
+Averages when n was 21: iterations was 188134.0, moves was 17103.0, time was 0.12787141799926757

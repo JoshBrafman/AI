@@ -1,0 +1,4 @@
+Averages when n was 7: iterations was 29148.0, moves was 204036.0, time was 0.4665655295054118
+Averages when n was 8: iterations was 107103.66666666667, moves was 856829.3333333334, time was 2.0566837787628174
+Averages when n was 9: iterations was 290267.3333333333, moves was 2612406.0, time was 7.180903832117717
+Averages when n was 10: iterations was 9589406.666666666, moves was 95894066.66666667, time was 1537.3299047152202

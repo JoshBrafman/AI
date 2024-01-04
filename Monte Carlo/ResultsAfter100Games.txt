@@ -1,0 +1,3 @@
+(I manually copied this from stout)
+The MC agent beat the Heuristic Agent: 96  out of  100
+The MC agent beat the Random agent: 100  out of  100
